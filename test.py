@@ -1,2 +1,2 @@
-import fall_distance
-print(fall_distance(3.2)
+import fall_distance as fd
+print(fd.fall_distance(3.2))
